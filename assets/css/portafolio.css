@@ -1,0 +1,24 @@
+
+.tabla{
+    display: flex;
+    justify-content: center;
+    width: 60%; /* Ajusta el porcentaje según lo necesites */
+    margin: auto;
+    
+}
+
+.table td img{
+    width: 80%;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+
+}
